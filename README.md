@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student passionate about coding and explorin
 
 ## 📚 Learning Journey
 
-I'm currently focusing on two main areas:
+I'm currently focusing on three main areas:
 
 ### Web Development
 
