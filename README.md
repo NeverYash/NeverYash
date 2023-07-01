@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student passionate about coding and explorin
 
 ## 🌱 Skills
 
-- **Languages:** C/C++, HTML, CSS, Javascript, UI/UX
+- **Languages:** C/C++, HTML, CSS, Javascript, Java, UI/UX
 - **Tools:** Git, Visual Studio Code, Command Line, Figma
 
 ## 📚 Learning Journey
