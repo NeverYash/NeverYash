@@ -41,6 +41,7 @@ I'm also diving deep into data structures and algorithms using C++. Understandin
 ## 🌟 Achievements
 
 - Completed [Fundamentals of UX Design](https://drive.google.com/file/d/10n3QFVkzEmEGQIiN4v8u33pMOY3ewgUX/view)
+  Completed [Start the UX Design Process: Empathize, Define, and Ideate](https://www.coursera.org/account/accomplishments/verify/354GQMBA64P4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 - Completed [Java Foundations](https://drive.google.com/file/d/13LsCMCshh2JMjqOlOZbD3GRYDlw3tajE/view)
 
 ## 📫 Let's Connect
